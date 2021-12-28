@@ -7,3 +7,4 @@ I want to make Games for people!
 ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=C)
 ![python](https://img.shields.io/badge/python-yellow?style=flat-square&logo=python)
 ![flutter](https://img.shields.io/badge/flutter-blue?style=flat-square&logo=flutter)
+![Blender](https://img.shields.io/badge/blender-orange?style=flat-square&logo=blender)
