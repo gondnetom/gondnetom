@@ -4,7 +4,7 @@ I want to make Games for people!
 
 ## I'm Studing About
 ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
+![flutter](https://img.shields.io/badge/flutter-blue?style=flat-square&logo=flutter)
 ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=C)
 ![python](https://img.shields.io/badge/python-yellow?style=flat-square&logo=python)
-![flutter](https://img.shields.io/badge/flutter-blue?style=flat-square&logo=flutter)
-![Blender](https://img.shields.io/badge/blender-white?style=flat-square&logo=blender)
+![Blender](https://img.shields.io/badge/blender-grey?style=flat-square&logo=blender)
