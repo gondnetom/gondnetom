@@ -12,8 +12,8 @@ I want to make Games for people!
 ### Please visit my SNS 🕹️😊
 [![Youtube](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCiAvWOIglL1zUoAKTn350IQ)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=Instagram)](https://www.instagram.com/mortem4_stu/)
-[![Playstore](https://img.shields.io/badge/Playstore-green?style=flat-square&logo=Playstore)](https://play.google.com/store/apps/developer?id=Gondnetom)
-[![Appstore](https://img.shields.io/badge/Appstore-blue?style=flat-square&logo=Appstore)](https://apps.apple.com/us/developer/jungseo-lee/id1557008372)
+[![Android](https://img.shields.io/badge/Android-green?style=flat-square&logo=Android)](https://play.google.com/store/apps/developer?id=Gondnetom)
+[![Appstore](https://img.shields.io/badge/Appstore-white?style=flat-square&logo=Appstore)](https://apps.apple.com/us/developer/jungseo-lee/id1557008372)
 
 - Blog : https://gondne123.tistory.com/
 - Email : gondnetom@gmail.com
