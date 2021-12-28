@@ -4,4 +4,6 @@ I want to make Games for people!
 
 ## I'm Studing About
 ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
+![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=C)
 ![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=C++)
+![C#](https://img.shields.io/badge/C-blue?style=flat-square&logo=C#)
