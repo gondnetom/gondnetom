@@ -15,5 +15,5 @@ I want to make Games for people!
 [![Playstore](https://img.shields.io/badge/Playstore-green?style=flat-square&logo=Playstore)](https://play.google.com/store/apps/developer?id=Gondnetom)
 [![Appstore](https://img.shields.io/badge/Appstore-blue?style=flat-square&logo=Appstore)](https://apps.apple.com/us/developer/jungseo-lee/id1557008372)
 
-- [Blog](https://gondne123.tistory.com/) : https://gondne123.tistory.com/
-- [Email](gondnetom@gmail.com) : gondnetom@gmail.com
+- Blog : https://gondne123.tistory.com/
+- Email : gondnetom@gmail.com
