@@ -20,4 +20,4 @@ I want to make Games for people!
 
 ## Play my game!
 - [Yumi's Cells Fan Game](https://gondnetom.github.io/YumiFan_Game/)
-- [SnowSlide](https://play.google.com/store/apps/details?id=com.gondnetom.SnowSlide)
+- [Snow Slide](https://play.google.com/store/apps/details?id=com.gondnetom.SnowSlide)
