@@ -19,5 +19,5 @@ I want to make Games for people!
 - Email : gondnetom@gmail.com
 
 ## Play my game!
-- [Yumi's Cells Fan Game](https://gondnetom.github.io/YumiFan_Game/)
+- [Flight Simulation](https://mortem4.itch.io/flight-simulation)
 - [Snow Slide](https://play.google.com/store/apps/details?id=com.gondnetom.SnowSlide)
